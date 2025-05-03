@@ -91,7 +91,7 @@ function AboutPage() {
           <div className="w-[90%] h-[90%] md:flex border-2 border-amber-700">
             <div className="w-full md:w-2/3 h-full overflow-x-scroll hide-scrollbar">
               <p className="p-10 text-left text-2xl text-wrap italic">
-                "I am a dedicated personal fitness trainer with over 10 years
+                I am a dedicated personal fitness trainer with over 10 years
                 of experience helping individuals achieve their health and body
                 goals. As a 3-time state-level gold medalist, I bring a deep
                 understanding of strength, endurance, and performance. I
@@ -99,7 +99,7 @@ function AboutPage() {
                 tailored to each client needs—ensuring sustainable, visible
                 results. Whether you are aiming to lose fat, build muscle, or
                 improve overall wellness, I am here to guide, motivate, and
-                transform your fitness journey."
+                transform your fitness journey.
               </p>
             </div>
             <div className="w-full md:w-1/3 mt-5 md:mt-0 h-full bg-zinc-800">
