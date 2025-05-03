@@ -97,7 +97,7 @@ function AboutPage() {
                 understanding of strength, endurance, and performance. I
                 specialize in creating customized workout and nutrition plans
                 tailored to each client needs—ensuring sustainable, visible
-                results. Whether you're aiming to lose fat, build muscle, or
+                results. Whether you are aiming to lose fat, build muscle, or
                 improve overall wellness, I am here to guide, motivate, and
                 transform your fitness journey."
               </p>
