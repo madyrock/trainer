@@ -78,7 +78,7 @@ function AboutPage() {
         <div className="w-full pt-10 flex flex-col justify-center items-center">
           <div className="w-[90%] h-[90%] md:flex border-2  border-amber-700">
             <div className="w-full md:w-2/3 h-full overflow-x-scroll hide-scrollbar ">
-              <p className="p-10 text-left text-2xl text-wrap italic">"I’m a dedicated personal fitness trainer with over 10 years of experience helping individuals achieve their health and body goals. As a 3-time state-level gold medalist, I bring a deep understanding of strength, endurance, and performance. I specialize in creating customized workout and nutrition plans tailored to each client’s needs—ensuring sustainable, visible results. Whether you're aiming to lose fat, build muscle, or improve overall wellness, I’m here to guide, motivate, and transform your fitness journey."</p>
+              <p className="p-10 text-left text-2xl text-wrap italic">"I am a dedicated personal fitness trainer with over 10 years of experience helping individuals achieve their health and body goals. As a 3-time state-level gold medalist, I bring a deep understanding of strength, endurance, and performance. I specialize in creating customized workout and nutrition plans tailored to each client needs—ensuring sustainable, visible results. Whether you're aiming to lose fat, build muscle, or improve overall wellness, I am here to guide, motivate, and transform your fitness journey."</p>
             </div>
             <div className="w-full md:w-1/3 mt-5 md:mt-0 h-full bg-zinc-800">
               <img className="w-full h-full object-cover fli" src="/about.jpg" alt="" />
