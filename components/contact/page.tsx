@@ -6,7 +6,7 @@ import { IoClose } from "react-icons/io5";
 import { useState } from "react";
 import { motion } from "framer-motion";
 
-export default function ContactSection() {
+function ContactSection() {
 
      const [isOpen, setIsOpen] = useState(false);
     
@@ -106,3 +106,5 @@ export default function ContactSection() {
     </>
   );
 }
+
+export default ContactSection;
