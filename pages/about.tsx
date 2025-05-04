@@ -71,11 +71,11 @@ function AboutPage() {
         )
       }
 
-      <div className="test w-full h-screen justify-center items-center bg-zinc-900 pt-30 md:pt-20 text-center">
+      <div className="test w-full h-screen justify-center items-center bg-zinc-900 pt-25  md:pt-20 text-center">
         <h1 className="md:text-[2vw] text-[3vh] text-amber-700 font-bold">
           About Me
         </h1>
-        <div className="w-full pt-10 flex flex-col justify-center items-center">
+        <div className="w-full pt-10 flex flex-col justify-center items-center pb-10">
           <div className="w-[90%] h-[90%] md:flex border-2  border-amber-700">
             <div className="w-full md:w-2/3 h-full overflow-x-scroll hide-scrollbar ">
             {/* eslint-disable-next-line react/no-unescaped-entities */}

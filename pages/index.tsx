@@ -95,7 +95,7 @@ function HomePage() {
         {/* Content */}
         <div className="relative z-10 flex items-center justify-start h-full text-white text-center md:px-20 px-5">
           <div className="text-left">
-            <h1 className="text-5xl md:text-7xl font-bold">
+            <h1 className="text-4xl md:text-7xl font-bold">
               Train with <span className="text-amber-700 font-bold">ME.</span>
             </h1>
             <p className="mt-4 text-lg md:text-xl">
@@ -115,17 +115,17 @@ function HomePage() {
         <div className="w-full md:px-10 md:block lg:flex">
           <div className="relative md:w-full lg:w-1/2 pt-[650px]">
             <img
-              className="absolute inset-0 w-[250px] md:w-[300px] top-10 left-15 md:top-10 md:left-15 object-cover rounded-2xl"
+              className="absolute inset-0 w-[250px] md:w-[300px] top-10 left-13 md:top-10 md:left-15 object-cover rounded-2xl"
               src="https://t4.ftcdn.net/jpg/01/74/21/25/360_F_174212531_cerVf4uP6vinBWieBB46p2P5xVhnsNSK.jpg"
               alt="Training Image 1"
             />
             <img
-              className="absolute inset-0 w-[250px] md:w-[300px] top-45 left-50 md:top-50 md:left-80 object-cover rounded-2xl"
+              className="absolute inset-0 w-[250px] md:w-[300px] top-47 left-5 md:top-50 md:left-80 object-cover rounded-2xl"
               src="https://img.freepik.com/foto-gratis/mujer-atletica-haciendo-ejercicio-gimnasio-mantenerse-forma_23-2150989975.jpg?semt=ais_hybrid&w=740"
               alt="Training Image 2"
             />
             <img
-              className="absolute inset-0 w-[250px] md:w-[300px] top-90 left-15 md:top-80 md:left-15 object-cover rounded-2xl"
+              className="absolute inset-0 w-[250px] md:w-[300px] top-105 left-13 md:top-80 md:left-15 object-cover rounded-2xl"
               src="/a2.jpg"
               alt="Training Image 3"
             />
