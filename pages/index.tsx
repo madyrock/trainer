@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Contact from "../components/contact/page";
+import Contact from "./contact";
 import { TiThMenu } from "react-icons/ti";
 import { IoClose } from "react-icons/io5";
 import { useState } from "react";
